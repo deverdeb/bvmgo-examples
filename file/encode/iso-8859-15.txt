@@ -1,0 +1,8 @@
+Test ISO-8859-15
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
++-*/+²#"'{([|_\@)]}°
+אגהחיטכךלןמסעפצשûüÿ
+ÀÂÄÈËÊÌÏÎÑÒÔÖÙÜÛ
+µ£§¤

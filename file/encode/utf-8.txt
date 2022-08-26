@@ -1,0 +1,8 @@
+Test UTF-8
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789
++-*/+²#"'{([|_\@)]}°
+àâäçéèëêìïîñòôöùûüÿ
+ÀÂÄÈËÊÌÏÎÑÒÔÖÙÜÛ
+µ£§€
